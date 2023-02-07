@@ -1,0 +1,7 @@
+#Tips
+1. Type lorem followed by the number of words you want (without spaces). For example, lorem20 would generate 20 words.
+
+
+
+#Sources:
+1. https://specificity.keegan.st/: to understand why one selector being applied other another
